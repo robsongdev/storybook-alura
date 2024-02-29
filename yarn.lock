@@ -1988,6 +1988,15 @@
   dependencies:
     memoizerific "^1.11.3"
 
+"@storybook/addons@^7.6.17":
+  version "7.6.17"
+  resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-7.6.17.tgz#6fd78ae3a3419bd91fdacbebd40062eb94f92155"
+  integrity sha512-Ok18Y698Ccyg++MoUNJNHY0cXUvo8ETFIRLJk1g9ElJ70j6kPgNnzW2pAtZkBNmswHtofZ7pT156cj96k/LgfA==
+  dependencies:
+    "@storybook/manager-api" "7.6.17"
+    "@storybook/preview-api" "7.6.17"
+    "@storybook/types" "7.6.17"
+
 "@storybook/blocks@7.6.17", "@storybook/blocks@^7.6.17":
   version "7.6.17"
   resolved "https://registry.yarnpkg.com/@storybook/blocks/-/blocks-7.6.17.tgz#1329885be158f08104f806e5f23b7eb7f99c8b1c"
