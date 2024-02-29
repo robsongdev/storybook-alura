@@ -2,6 +2,7 @@ import React from "react";
 import * as S from "./styles";
 
 export interface ButtonProps {
+    /**Teste comentario de props*/
     variant?: "primary" | "accent";
     disabled?: boolean;
     children: React.ReactNode;
